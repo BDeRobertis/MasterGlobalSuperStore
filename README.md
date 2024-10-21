@@ -11,4 +11,4 @@ Desarrollar paneles interactivos e informes para presentar los hallazgos clave e
 
 Utilizae dos conjuntos de datos (Master Global Super Store y Products Global Super Store) para guiar el análisis.
 
-Aptitudes: Analítica de datos · Limpieza de datos · Gestión de datos · google sheet · Análisis de datos
+Aptitudes: Analítica de datos · Limpieza de datos · Gestión de datos · Google sheets · Análisis de datos
